@@ -3,7 +3,7 @@ package edu.tekwill.java;
 public class App {
 
     public static void main(String[] args) {
-
-        System.out.println("HI");
+        
+        System.out.println("Bye");
     }
 }
